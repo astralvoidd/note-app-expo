@@ -1,32 +1,16 @@
 # 📝 Note App Expo
 
-> 📱 A beautiful and modern note-taking app built with Expo and React Native.
-
 A modern and elegant Notes application built with **React Native**, **Expo**, and **TypeScript**.
+
+> 📱 Beautiful and modern note-taking app with smooth animations, custom themes, and offline storage.
 
 Create, edit, search, and organize your notes with a clean user interface, smooth animations, beautiful themes, and persistent local storage.
 
 ---
 
-## 🎥 Demo
+## 🎥 Preview
 
-A 30-second walkthrough of the application is included in:
-
-**assets/videos/demo.mp4**
-
-> After pushing this repository to GitHub, this will be replaced with an embedded video preview.
-
----
-
-## 📸 Screenshots
-
-| Home                                                                           | Search                                                                         |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| ![](assets/app-images/Screenshot_2026-07-27-19-15-39-398_com.miui.gallery.jpg) | ![](assets/app-images/Screenshot_2026-07-27-19-15-54-668_com.miui.gallery.jpg) |
-
-| Theme                                                                          | Note Details                                                                   |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| ![](assets/app-images/Screenshot_2026-07-27-19-16-04-503_com.miui.gallery.jpg) | ![](assets/app-images/Screenshot_2026-07-27-19-16-12-259_com.miui.gallery.jpg) |
+https://github.com/user-attachments/assets/d9b648d1-59a2-4145-8393-b71e8bedf524
 
 ---
 
