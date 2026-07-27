@@ -10,7 +10,7 @@ Create, edit, search, and organize your notes with a clean user interface, smoot
 
 ## 🎥 Preview
 
-https://github.com/user-attachments/assets/4911415c-7e2c-4d7b-8be2-d640dd1cd7e8
+https://github.com/user-attachments/assets/64493f39-3009-40e4-82ce-37dd372da216
 
 ---
 
