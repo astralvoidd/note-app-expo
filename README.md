@@ -1,56 +1,129 @@
-# Welcome to your Expo app 👋
+# 📝 Note App Expo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> 📱 A beautiful and modern note-taking app built with Expo and React Native.
 
-## Get started
+A modern and elegant Notes application built with **React Native**, **Expo**, and **TypeScript**.
 
-1. Install dependencies
+Create, edit, search, and organize your notes with a clean user interface, smooth animations, beautiful themes, and persistent local storage.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🎥 Demo
 
-   ```bash
-   npx expo start
-   ```
+A 30-second walkthrough of the application is included in:
 
-In the output, you'll find options to open the app in a
+**assets/videos/demo.mp4**
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+> After pushing this repository to GitHub, this will be replaced with an embedded video preview.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📸 Screenshots
 
-When you're ready, run:
+| Home                                                                           | Search                                                                         |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| ![](assets/app-images/Screenshot_2026-07-27-19-15-39-398_com.miui.gallery.jpg) | ![](assets/app-images/Screenshot_2026-07-27-19-15-54-668_com.miui.gallery.jpg) |
 
-```bash
-npm run reset-project
+| Theme                                                                          | Note Details                                                                   |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| ![](assets/app-images/Screenshot_2026-07-27-19-16-04-503_com.miui.gallery.jpg) | ![](assets/app-images/Screenshot_2026-07-27-19-16-12-259_com.miui.gallery.jpg) |
+
+---
+
+## ✨ Features
+
+- 📝 Create, edit and delete notes
+- 🔍 Instant note search
+- 🎨 Beautiful customizable note themes
+- 🌙 Dark & Light mode support
+- 💾 Notes are automatically saved locally using AsyncStorage
+- ⚡ Smooth animations powered by React Native Reanimated
+- 📱 Responsive two-column layout
+- ✅ Multi-select and delete multiple notes
+- 🚀 Fast, lightweight and user-friendly experience
+
+---
+
+## 🛠 Tech Stack
+
+- **React Native**
+- **Expo SDK 54**
+- **TypeScript**
+- **Expo Router**
+- **React Native Reanimated**
+- **AsyncStorage**
+- **Expo Image**
+- **Expo Vector Icons**
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+├── app/
+│   ├── components/
+│   ├── constants/
+│   ├── note/
+│   ├── new.tsx
+│   └── index.tsx
+│
+├── context/
+├── data/
+├── types/
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-### Other setup steps
+## 🚀 Getting Started
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+Clone the repository:
 
-## Learn more
+```bash
+git clone https://github.com/astralvoidd/note-app-expo.git
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+Navigate to the project directory:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+cd note-app-expo
+```
 
-## Join the community
+Install dependencies:
 
-Join our community of developers creating universal apps.
+```bash
+npm install
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Start the development server:
+
+```bash
+npx expo start
+```
+
+Scan the QR code using **Expo Go** on your Android or iOS device.
+
+---
+
+## 📦 Built With
+
+- Expo SDK 54
+- React Native 0.81
+- React 19
+- TypeScript
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+Built with ❤️ by **astralvoidd**
+
+If you enjoyed this project, consider giving it a ⭐.
+
+If you have any suggestions or feedback, feel free to open an issue or submit a pull request.
